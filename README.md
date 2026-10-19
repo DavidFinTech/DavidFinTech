@@ -39,7 +39,8 @@ Making my projects easier to read, strengthening **model evaluation**, and commu
 
 ### Let’s Connect
 
+[![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-Let%27s_Connect-0077B5?style=for-the-badge)](https://www.linkedin.com/in/facundo-david-urquizo)
+
 I’d welcome conversations about internships, research, and projects involving financial data or applied statistics.
 
-[![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-Let%27s_Connect-0077B5?style=for-the-badge)](https://www.linkedin.com/in/facundo-david-urquizo)
 
