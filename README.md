@@ -3,7 +3,7 @@
 
 I’m a junior at **Baruch College**, pursuing a **BBA in Statistics and Quantitative Modeling, Data Science Track**. I use statistics and programming to explore financial data, risk, and mathematical decision-making.
 
-*Seeking internship opportunities in data analytics, data science, and fintech.*
+**Seeking internship opportunities in data analytics, data science, and fintech.**
 
 ### Featured Projects
 
