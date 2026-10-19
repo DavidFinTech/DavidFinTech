@@ -7,13 +7,13 @@ I’m a junior at **Baruch College**, pursuing a **BBA in Statistics and Quantit
 
 ### Featured Projects
 
-#### [Energy ETF Pairs Trading](https://github.com/DavidFinTech/Statistical_Arbitrage_Pairs_Trading-Engine)
+#### [Energy ETF Pairs Trading](https://github.com/DavidFinTech/Statistical_Arbitrage_Pairs_Trading_Engine)
 
-Evaluated six energy ETF pairs using **2021–2023 training data** applying mean-reversion strategies through **cointegration testing**, **OLS hedge-ratio estimation**, and **rolling Z-score signals**. Backtested FENY–VDE using a fixed training-period hedge ratio to a *2024–2025 historical data* to ultimately calculate approximately **0.8% cumulative return before trading and borrowing costs**.
+Evaluated six energy ETF pairs using **2021–2023 training data** applying mean-reversion strategies through **cointegration testing**, **OLS hedge-ratio estimation**, and **rolling Z-score signals**. Backtested FENY–VDE using a fixed training-period hedge ratio on *2024–2025 historical data* to ultimately calculate approximately **0.8% cumulative return before trading and borrowing costs**.
 
 #### [Credit Card Fraud Detection](https://github.com/DavidFinTech/High_Precision_Credit_Card_Fraud_Detection_Model)
 
-Exploring fraud detection in a highly imbalanced transaction dataset using **SMOTE** and a **Random Forest classifier**. Increased precision from **88% to 92%** while recall decreased from **83% to 81%**. at a 75% classification threshold, examining the tradeoff between precision and recall.
+Exploring fraud detection in a highly imbalanced transaction dataset using **SMOTE** and a **Random Forest classifier**. Increased precision from **88% to 92%** while recall decreased from **83% to 81%** at a 75% classification threshold, examining the tradeoff between precision and recall.
 
 #### [100 Days of Code](https://github.com/DavidFinTech/100_days_of_code)
 
@@ -39,6 +39,7 @@ Making my projects easier to read, strengthening **model evaluation**, and commu
 
 ### Let’s Connect
 
-[![LinkedIn](https://shields.io\'s%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/facundo-david-urquizo)
-
 I’d welcome conversations about internships, research, and projects involving financial data or applied statistics.
+
+[![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-Let%27s_Connect-0077B5?style=for-the-badge)](https://www.linkedin.com/in/facundo-david-urquizo)
+
