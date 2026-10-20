@@ -13,7 +13,7 @@ Evaluated six energy ETF pairs using **2021–2023 training data** applying mean
 
 #### [Credit Card Fraud Detection](https://github.com/DavidFinTech/High_Precision_Credit_Card_Fraud_Detection_Model)
 
-Exploring fraud detection in a highly imbalanced transaction dataset using **SMOTE** and a **Random Forest classifier**. Increased precision from **88% to 92%** while recall decreased from **83% to 81%** at a 75% classification threshold, examining the tradeoff between precision and recall.
+Exploring fraud detection in a highly imbalanced transaction dataset using **SMOTE** and a **Random Forest classifier**. Increased precision from **88% to 92%** while recall decreased from **83% to 82%** at a 75% classification threshold, examining the tradeoff between precision and recall.
 
 #### [100 Days of Code](https://github.com/DavidFinTech/100_days_of_code)
 
