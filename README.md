@@ -9,11 +9,11 @@ I’m a junior at **Baruch College**, pursuing a **BBA in Statistics and Quantit
 
 #### [Energy ETF Pairs Trading](https://github.com/DavidFinTech/Statistical_Arbitrage_Pairs_Trading_Engine)
 
-Evaluated six energy ETF pairs using **2021–2023 training data** applying mean-reversion strategies through **cointegration testing**, **OLS hedge-ratio estimation**, and **rolling Z-score signals**. Backtested FENY–VDE using a fixed training-period hedge ratio on *2024–2025 historical data* to ultimately calculate approximately **0.8% cumulative return before trading and borrowing costs**.
+Tested six energy ETF pairs for **cointegration** on 2021–2023 data, then backtested a **rolling Z-score** mean-reversion strategy on FENY–VDE over 2024–2025 with a fixed **OLS hedge ratio**. It returned about **0.8% before costs** with a Sharpe ratio of 1.2, and the return turns negative at around 5 basis points per trade.
 
 #### [Credit Card Fraud Detection](https://github.com/DavidFinTech/High_Precision_Credit_Card_Fraud_Detection_Model)
 
-Exploring fraud detection in a highly imbalanced transaction dataset using **SMOTE** and a **Random Forest classifier**. Increased precision from **88% to 92%** while recall decreased from **83% to 82%** at a 75% classification threshold, examining the tradeoff between precision and recall.
+Fraud detection on a highly imbalanced transaction dataset using **SMOTE** and a **Random Forest classifier**, with a logistic regression baseline. Raising the alert threshold from 0.50 to 0.65, chosen on a validation set, increased test precision from **89% to 95%** while recall stayed at **80%**.
 
 #### [100 Days of Code](https://github.com/DavidFinTech/100_days_of_code)
 
@@ -35,7 +35,7 @@ My progress through Angela Yu’s bootcamp, with exercises and projects covering
 
 ### What I’m Working On
 
-Making my projects easier to read, strengthening **model evaluation**, and communicating results and limitations clearly. My next steps include evaluating trading costs and making each project smoother to run from a fresh environment.
+Making my projects easier to read, strengthening **model evaluation**, and communicating results and limitations clearly. My next steps include adding borrowing costs to the pairs backtest and trying cross-validation on the fraud model.
 
 ### Let’s Connect
 
